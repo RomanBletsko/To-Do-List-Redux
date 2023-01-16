@@ -10,10 +10,10 @@ const ModalWindow = () => {
     return state.modal.modalStatus;
   });
 
-  const dispatсh = useDispatch();
+  const dispatch = useDispatch();
   const clearAllfunc = () => {
-    dispatсh(clearAll());
-    dispatсh(modalActive());
+    dispatch(clearAll());
+    dispatch(modalActive());
   };
   return (
     <Wrapper className={modalStatus ? "active" : ""}>
@@ -23,7 +23,7 @@ const ModalWindow = () => {
           <Button variant="contained" onClick={clearAllfunc}>
             yes
           </Button>
-          <Button variant="contained" onClick={() => dispatсh(modalActive())}>
+          <Button variant="contained" onClick={() => dispatch(modalActive())}>
             no
           </Button>
         </Stack>
