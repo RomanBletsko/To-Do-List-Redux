@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/To-Do-List-Redux/static/css/main.073c9b0a.css",
-    "main.js": "/To-Do-List-Redux/static/js/main.442d69e6.js",
+    "main.css": "/To-Do-List-Redux/static/css/main.e6c13ad2.css",
+    "main.js": "/To-Do-List-Redux/static/js/main.73fc0c27.js",
     "static/js/787.d25b428e.chunk.js": "/To-Do-List-Redux/static/js/787.d25b428e.chunk.js",
-    "static/media/logo.svg": "/To-Do-List-Redux/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/modal_Bg.jpg": "/To-Do-List-Redux/static/media/modal_Bg.8bc6674c543f30863fe1.jpg",
+    "static/media/logo.jpg": "/To-Do-List-Redux/static/media/logo.f17f13282b4878670bd5.jpg",
     "index.html": "/To-Do-List-Redux/index.html",
-    "main.073c9b0a.css.map": "/To-Do-List-Redux/static/css/main.073c9b0a.css.map",
-    "main.442d69e6.js.map": "/To-Do-List-Redux/static/js/main.442d69e6.js.map",
+    "main.e6c13ad2.css.map": "/To-Do-List-Redux/static/css/main.e6c13ad2.css.map",
+    "main.73fc0c27.js.map": "/To-Do-List-Redux/static/js/main.73fc0c27.js.map",
     "787.d25b428e.chunk.js.map": "/To-Do-List-Redux/static/js/787.d25b428e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.442d69e6.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.73fc0c27.js"
   ]
 }
