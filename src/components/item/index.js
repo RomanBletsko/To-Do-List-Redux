@@ -4,7 +4,7 @@ import DeleteIcon from "@mui/icons-material/Delete";
 import CheckBoxIcon from "@mui/icons-material/CheckBox";
 import IconButton from "@mui/material/IconButton";
 import { useDispatch } from "react-redux";
-import { clearItem, doItem } from "../../features/itemsSlice";
+import { clearItem, doItem } from "../../features/toDoListSlice";
 
 const Item = ({ elementItem }) => {
   const dispatch = useDispatch();

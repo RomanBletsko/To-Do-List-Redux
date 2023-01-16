@@ -1,5 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
-import toDoListReducer from "../features/itemsSlice";
+import toDoListReducer from "../features/toDoListSlice";
 import modaStatusReduser from "../features/modalSlice";
 
 export const store = configureStore({

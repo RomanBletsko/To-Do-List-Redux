@@ -5,7 +5,7 @@ import ModalWindow from "../modal/";
 import Item from "../item/";
 import Logo from "../../assets/logo.jpg";
 import DeleteIcon from "@mui/icons-material/Delete";
-import { addItem, addInputValue } from "../../features/itemsSlice";
+import { addItem, addInputValue } from "../../features/toDoListSlice";
 import { modalActive } from "../../features/modalSlice";
 import { useSelector, useDispatch } from "react-redux";
 import { useEffect } from "react";

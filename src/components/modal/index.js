@@ -2,7 +2,7 @@ import styled from "@emotion/styled";
 import BgImage from "../../assets/modal_Bg.jpg";
 import { Button, Stack } from "@mui/material";
 import { useSelector, useDispatch } from "react-redux";
-import { clearAll } from "../../features/itemsSlice";
+import { clearAll } from "../../features/toDoListSlice";
 import { modalActive } from "../../features/modalSlice";
 
 const ModalWindow = () => {

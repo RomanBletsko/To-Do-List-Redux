@@ -12,7 +12,7 @@ const checkInput = (input) => {
 };
 
 const toDoListSlice = createSlice({
-  name: "items",
+  name: "ToDoList",
   initialState,
   reducers: {
     addInputValue: (state, action) => {
